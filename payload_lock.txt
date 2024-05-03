@@ -1,0 +1,3 @@
+LED M FAST
+ATTACKMODE HID
+while true; do QUACK GUI l; sleep 3; QUACK CTRL-ALT l; sleep 3; QUACK COMMAND-CTRL q; sleep 3; done
